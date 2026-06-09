@@ -7,12 +7,12 @@
 - 🎓 B.Tech Student
 - 💻 Learning Web Development
 - 🤖 Interested in AI
-- 🌱 Currently learning JavaScript and Node.js
+- 🌱 Currently learning Data Strucure and algorithm
 
 ## 🛠 Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
 </p>
 
 ## 📊 GitHub Stats
