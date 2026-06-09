@@ -1,39 +1,19 @@
-# Hi 👋, I'm Avinash Kumar Ray
+# Hi 👋 I'm Avinash Kumar Ray
 
-🎓 B.Tech Student from Bihar, India
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;B.Tech+Student;Future+GSoC+Contributor)](https://git.io/typing-svg)
 
-💻 Passionate about Web Development, AI and Problem Solving
+## 🚀 About Me
 
-🌱 Currently Learning:
-- JavaScript
-- Node.js
-- Data Structures & Algorithms
-- AI Applications
+- 🎓 B.Tech Student
+- 💻 Learning Web Development
+- 🤖 Interested in AI
+- 🌱 Currently learning JavaScript and Node.js
 
-🚀 Goals for 2026
-- Contribute to Open Source
-- Participate in Google Summer of Code
-- Build Real World AI Projects
+## 🛠 Skills
 
-## 🛠️ Skills
-
-- Python
-- Java
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-
-## 📂 Featured Projects
-
-### AI-powered Smart Queue and Emergency Management System
-AI-based solution for managing queues and emergency situations efficiently.
-
-### My Portfolio
-Personal portfolio website showcasing my projects and skills.
-
-### DSA Practices
-Collection of DSA problems solved in Java.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,nodejs,git,github,vscode" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -41,14 +21,4 @@ Collection of DSA problems solved in Java.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarrayavinash452-debug&layout=compact)
 
-## 🌐 Connect With Me
-
-LinkedIn:
-www.linkedin.com/in/avinash-kumar-ray-1778b1397
-
-GitHub:
-https://github.com/kumarrayavinash452-debug
-
----
-
-⭐ Always learning and building new things.
+![](https://komarev.com/ghpvc/?username=kumarrayavinash452-debug&label=Profile+Views)
